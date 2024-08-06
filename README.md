@@ -1,4 +1,9 @@
- In this cryptocurrency application project, users can view the current market value and analysis of various crypto coins. The application features trending coins and allows users to add their favorite coins to a personalized list.  State management is handled using the React Context API, ensuring a smooth and efficient user experience. Data fetching is done through the Coin Gecko API, with firebase used to store user data. I utilized React hooks such as `useState` and `useEffect` alongside Axios for seamless interaction with the Coin Gecko API. The application also employs React Router Dom v6 to manage dynamic routes, providing a fluid and modern navigation experience.
+ In this cryptocurrency application project, users can view the current market value and analysis of various crypto coins. The application features trending coins and allows users to add their favorite coins to a personalized list.their is also dark mod option .  State management is handled using the React Context API, ensuring a smooth and efficient user experience. Data fetching is done through the Coin Gecko API, with firebase used to store user data. I utilized React hooks such as `useState` and `useEffect` alongside Axios for seamless interaction with the Coin Gecko API. The application also employs React Router Dom v6 to manage dynamic routes, providing a fluid and modern navigation experience.
+
+
+![Screenshot (37)](https://github.com/user-attachments/assets/1ba36d9e-c297-4849-a1f1-348b215274bd)
+![Screenshot (35)](https://github.com/user-attachments/assets/15c22ac3-8a0a-410e-a366-8e9489ea83aa)
+![Screenshot (36)](https://github.com/user-attachments/assets/d93bab2c-9263-4594-89fd-25cf79eba72f)
 
 # Getting Started with Create React App
 
