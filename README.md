@@ -1,3 +1,5 @@
+ In this cryptocurrency application project, users can view the current market value and analysis of various crypto coins. The application features trending coins and allows users to add their favorite coins to a personalized list.  State management is handled using the React Context API, ensuring a smooth and efficient user experience. Data fetching is done through the Coin Gecko API, with firebase used to store user data. I utilized React hooks such as `useState` and `useEffect` alongside Axios for seamless interaction with the Coin Gecko API. The application also employs React Router Dom v6 to manage dynamic routes, providing a fluid and modern navigation experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
